@@ -1,0 +1,100 @@
+/* 🌐 Estilo global */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 40px;
+    background-color: #fdfdfd;
+    color: #333;
+}
+
+/* 🧠 Cabeçalhos */
+h1,
+h2 {
+    color: #005f73;
+}
+
+/* 👤 Cabeçalho com foto */
+.header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.photo {
+    width: 120px;
+    height: 160px;
+    border: 2px solid #ccc;
+    object-fit: cover;
+}
+
+/* 📂 Seções */
+.section {
+    margin-bottom: 30px;
+}
+
+/* 📋 Listas */
+ul {
+    padding-left: 20px;
+}
+
+/* 🔗 Links de contato */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* 📱 Responsividade para celular */
+@media (max-width: 600px) {
+    body {
+        margin: 20px;
+        font-size: 18px;
+    }
+
+    .header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .photo {
+        width: 100px;
+        height: 130px;
+    }
+}
+
+/* 🌙 Modo escuro automático */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1e1e1e;
+        color: #f0f0f0;
+    }
+
+    h1,
+    h2 {
+        color: #90e0ef;
+    }
+
+    a {
+        color: #00b4d8;
+    }
+
+    footer {
+        color: #aaa;
+    }
+
+    .photo {
+        border-color: #444;
+    }
+}
+
+/* 🧾 Rodapé */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #777;
+}
