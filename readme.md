@@ -20,14 +20,7 @@ Este é meu currículo online, desenvolvido com HTML e CSS, com design responsiv
 - Foto de perfil
 - Rodapé com direitos autorais
 
-## 🚀 Como publicar com GitHub Pages
-
-1. Faça o commit dos arquivos `index.html`, `style.css` e `foto.jpg`
-2. Vá em **Settings > Pages**
-3. Selecione a branch `main` e a pasta `/root`
-4. Acesse o link gerado
-
 ## 📬 Contato
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/LiltonMagalhaes) ou enviar um e-mail para:  
-**liltonmagalhaes@hotmail.com**
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seu-usuario) ou enviar um e-mail para:  
+**seuemail@email.com**
