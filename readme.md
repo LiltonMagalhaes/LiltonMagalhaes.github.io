@@ -22,5 +22,5 @@ Este repositório contém meu currículo online, desenvolvido com HTML e CSS. O 
 
 ## 📬 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/LiltonMagalhaes)
+- [LinkedIn](https://www.linkedin.com/in/lilton-magalhães)
 - Email: **liltonmagalhaes@hotmail.com**
