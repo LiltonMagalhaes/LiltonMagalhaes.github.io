@@ -91,6 +91,25 @@ a:hover {
     }
 }
 
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #f0f0f0;
+    }
+
+    a {
+        color: #80dfff;
+    }
+
+    header,
+    footer {
+        background-color: #1e1e1e;
+    }
+
+    /* Adapte outros elementos conforme seu layout */
+}
+
+
 /* 🧾 Rodapé */
 footer {
     text-align: center;
