@@ -1,10 +1,36 @@
 /* 🌐 Estilo global */
 body {
-    font-family: 'Poppins', sans-serif;
-    margin: 40px;
-    background-color: #fdfdfd;
-    color: #333;
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
+
+a {
+  color: #90caf9;
+  text-decoration: none;
+}
+
+header, section, footer {
+  padding: 20px;
+  border-bottom: 1px solid #333;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+  background-color: #1e1e1e;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-radius: 8px;
+}
+
 
 /* 🧠 Cabeçalhos */
 h1,
