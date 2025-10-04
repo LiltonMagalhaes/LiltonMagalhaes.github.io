@@ -4,7 +4,7 @@ Este repositório contém meu currículo online, desenvolvido com HTML e CSS. O 
 
 ## 🔗 Acesse o currículo
 
-👉 [Clique aqui para visualizar](https://liltonmagalhaes.github.io/curriculo-lilton/)
+👉 [Clique aqui para visualizar](https://liltonmagalhaes.github.io//)
 
 ## 🛠️ Tecnologias utilizadas
 
